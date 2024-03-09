@@ -1,6 +1,8 @@
 package com.example.aviatickets.model.entity
 
+import com.google.gson.annotations.SerializedName
+
 data class Location(
-    val cityName: String,
+    @SerializedName("city_name") val cityName: String,
     val code: String
 )

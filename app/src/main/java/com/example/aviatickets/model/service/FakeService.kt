@@ -29,7 +29,8 @@ object FakeService {
                     code = "KC"
                 ),
                 duration = 120
-            )
+            ),
+            imageUrl = "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg"
         ),
         Offer(
             id = UUID.randomUUID().toString(),
@@ -51,7 +52,8 @@ object FakeService {
                     code = "KC"
                 ),
                 duration = 120
-            )
+            ),
+            imageUrl = "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg"
         ),
         Offer(
             id = UUID.randomUUID().toString(),
@@ -73,7 +75,8 @@ object FakeService {
                     code = "KC"
                 ),
                 duration = 100
-            )
+            ),
+            imageUrl = "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg"
         ),
         Offer(
             id = UUID.randomUUID().toString(),
@@ -95,7 +98,8 @@ object FakeService {
                     code = "DV"
                 ),
                 duration = 90
-            )
+            ),
+            imageUrl = "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg"
         ),
         Offer(
             id = UUID.randomUUID().toString(),
@@ -117,7 +121,8 @@ object FakeService {
                     code = "IQ"
                 ),
                 duration = 135
-            )
+            ),
+            imageUrl = "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg"
         )
     )
 }
